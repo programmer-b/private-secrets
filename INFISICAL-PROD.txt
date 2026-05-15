@@ -1,0 +1,10 @@
+##############################################################
+# CRITICAL — Infisical PROD encryption key (rotated 2026-05-15 after transcript leak)
+# Back up THIS value to 1Password + print + lock BEFORE deploy completes.
+# Lose it → every encrypted secret in PG is unreadable.
+##############################################################
+INFISICAL_ENCRYPTION_KEY=b0b7d3bdff763a6ffec68e82eff42fca
+
+# Auth secret + DB password unchanged (less critical, regeneratable):
+INFISICAL_AUTH_SECRET=507bc64236402e95efadda63e530d64e2ebf845e524dcd7b296d9863e383b0b8
+INFISICAL_DB_PASSWORD=c2d29ffc5c5c81901a99d217705707459da4d98572b58e761c6956f1de44b534
