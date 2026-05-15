@@ -1,0 +1,7 @@
+shared-infrastructure=fc1152d1-9586-420e-9467-36bf1a840765
+backend-shared=3e020024-b858-44b5-b92d-bedb18c0a28a
+wambesh=e2a960c6-c2c0-4b28-b3b3-83b6bd81a7f2
+wambesha=418ba7e6-018a-4bb5-a94e-9c84e928871c
+wambesh-prism=4642d757-58a7-425e-86ae-d8e84874c03f
+email-worker=32a21e5e-71bd-452c-98ff-1b6960009df8
+ops-infrastructure=7db0d4e1-2e49-4836-8121-2085e558e573
